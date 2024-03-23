@@ -105,9 +105,9 @@ btn1.addEventListener('click',()=>{
     //apaga o campo de digitação
     inputUsuario.value = ''
 })
-/*
-Função jhssbjxczn\b
-*/
+// */
+// Função que é executada quando o botão de favorito é clicado
+// */
 
 const favoritoClicado = (eventoDeClique) => {
     /*adiciona um objeto com a propriedade favorito e não favorito,
